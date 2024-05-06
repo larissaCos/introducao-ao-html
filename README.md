@@ -1,0 +1,1 @@
+Esse código tem como propósito exercitar meus conhecimentos adiquiridos em html e auxiliar nos meus estudos sobre essa linguagem de marcação. Esse site apresenta uma breve história dos computadores e explica conceitos básicos de HTML. Como a estrutura básica de um documento, tags e atributos.
